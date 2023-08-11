@@ -1,0 +1,7 @@
+{
+  "name": "AtividadeCalculadora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
